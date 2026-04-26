@@ -1,0 +1,13 @@
+[book]
+title = "__REPO_NAME__ 深度研究"
+authors = ["Codex"]
+language = "zh-CN"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "__REPO_URL__"
